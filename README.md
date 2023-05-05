@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FightnGandhi
+# 👋 Hi, I’m @FightnGandhi
 - 👀 I’m interested in ...
   - Lightweight projects that contribute to a smooth workflow. 
   - CLI tools.
